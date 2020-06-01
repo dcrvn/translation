@@ -26,14 +26,14 @@ Với mỗi coin mới được tạo ra, có 5 vé được gọi ngẫu nhiên
 
 ### 2. Off-Chain Voting
 
-Bỏ phiếu cho các quyết định liên qua đến định hướng của dự án như việc chi tiêu quỹ, sửa đổi chính sách ... được đưa ra thông qua các đề xuất Politeia.
+Bỏ phiếu cho các quyết định liên quan đến định hướng của dự án như việc chi tiêu quỹ, sửa đổi chính sách ... được đưa ra thông qua các đề xuất Politeia.
 
 Politeia voting không được ghi vào chuỗi nhưng vẫn được mã hoá nhằm ngăn chặn các cuộc tấn công.
 
-- Politeia voting: Bất kỳ ai cũng có thể đề xuất một sự thay đổi và họ chỉ cần trả một khoản phí nhỏ cho việc xử lý kỹ thuật như ngăn chặn đề xuất rác. Thời gian bỏ phiếu kéo dài trong 1 tuần, người giữ ticket có quyền bỏ phiếu ủng hộ hay phản đối đề xuất này.
+- Politeia voting: Bất kỳ ai cũng có thể đề xuất một sự thay đổi và họ cần trả một khoản phí để hạn chế khả năng spam (0.1 DCR). Thời gian bỏ phiếu kéo dài trong 1 tuần, người giữ ticket có quyền bỏ phiếu ủng hộ hay phản đối đề xuất này.
 
 ## Kết luận
 
 Bài viết này đã đúc kết những thông tin cơ bản nhất mà bạn cần biết về quyền quản trị mạng lưới của Decred, hy vọng mang lại cho mọi người kiến thức bổ ích.
 
-From: [https://docs.decred.org/governance/overview/](https://docs.decred.org/governance/overview)
+From: [https://docs.decred.org/governance/overview](https://docs.decred.org/governance/overview)
