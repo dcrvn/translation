@@ -6,7 +6,7 @@
 
 Politeia là một nền tảng hỗ trợ việc quản trị mạng lưới Decred.
 
-Bạn có thể theo dõi tại [https://proposals.decred.org](https://proposals.decred.org) là nơi người dùng gửi đề xuất, theo dõi, thảo luận về các vấn đề liên quan đến quản trị Decred. Tuy nhiên việc voting không được thực hiện tại đây, vì nó yêu cầu chữ ký từ ví DRC của bạn.
+Bạn có thể theo dõi tại [https://proposals.decred.org](https://proposals.decred.org) là nơi người dùng gửi đề xuất, theo dõi, thảo luận về các vấn đề liên quan đến quản trị Decred. Tuy nhiên việc voting không được thực hiện tại đây, vì nó yêu cầu chữ ký từ ví DCR của bạn.
 
 Có hai loại đề xuất:
 
