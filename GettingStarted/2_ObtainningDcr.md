@@ -1,6 +1,6 @@
 # Sở hữu DCR coin
 
-Decred (DCR) là một đồng tiền điện tử được đánh giá khá tiềm năng trong tương lai. Vậy làm cách nào để sở hữu DCR? bài viết hôm nay hãy cùng DCR VN tìm hiểu 5 cách cơ bản nhất để nhận được DRC nhé!
+Decred (DCR) là một đồng tiền điện tử được đánh giá khá tiềm năng trong tương lai. Vậy làm cách nào để sở hữu DCR? bài viết hôm nay hãy cùng DCR VN tìm hiểu 5 cách cơ bản nhất để nhận được DCR nhé!
 
 ## 1. Mua DCR
 
@@ -15,11 +15,11 @@ Những bài viết sau mình sẽ nói rõ hơn về cơ chế đào nhé.
 
 ## 3. Tham gia bỏ phiếu Proof-of-Stake
 
-Điểm đặc biệt của DCR coin là sự kết hợp của PoS và PoW, trong cơ chế kết hợp này thì PoS đóng vai trò như là quản trị còn PoW sẽ đóng vai trò trong việc khai thác DCR coin mới, điều này đồng nghĩa với việc người nắm giữ DCR coin có quyền quyết định và được nhận phần thưởng khi có một coin mới được tạo ra thông qua quyền bỏ phiếu để bầu chọn và duyệt cho các thợ đào PoW. 
+Điểm đặc biệt của DCR coin là sự kết hợp của PoS và PoW, trong cơ chế kết hợp này thì PoS đóng vai trò như là quản trị còn PoW sẽ đóng vai trò trong việc khai thác DCR block mới, điều này đồng nghĩa với việc người nắm giữ DCR coin có quyền quyết định và được nhận phần thưởng khi có một block mới được tạo ra thông qua quyền bỏ phiếu để bầu chọn và duyệt cho các thợ đào PoW. 
  
 ## 4. Tham gia Decred
 
-Decred hiện đang tuyển dụng và chào đón mọi người vào cộng đồng, các thành viên sẽ được trả DRC coin tương ứng cho những đóng góp của họ.
+Decred hiện đang tuyển dụng và chào đón mọi người tham gia vào cộng đồng, các thành viên sẽ được trả DCR coin tương ứng cho những đóng góp của họ.
 
 ## 5. Trade Decred
 
