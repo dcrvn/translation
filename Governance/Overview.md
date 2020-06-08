@@ -14,11 +14,11 @@ Những người nắm giữ đủ DCR coin đều có thể mua vé **tickets**
 
 - Off-chain: Bầu chọn cho những vấn đề khác của cộng đồng như việc chi tiêu quỹ **Treasury funds**, hay sửa đổi chính sách cộng động Decred ...
 
-Những thợ mỏ với máy đào thông qua giao thức PoW sẽ tham gia vào quá trình tạo khối mới và sẽ được nhận 60% phần thưởng khối mới, những người tham gia vào quá trình bỏ phiếu PoS sẽ được nhận 30% phần thưởng khối mới, 10% còn lại được giữ bởi Decred Treasury.
+Những thợ mỏ với máy đào thông qua giao thức PoW sẽ tham gia vào quá trình tạo block mới và sẽ được nhận 60% phần thưởng block mới, những người tham gia vào quá trình bỏ phiếu PoS sẽ được nhận 30% phần thưởng block mới, 10% còn lại được giữ bởi Decred Treasury.
 
 ### 1. On-Chain Voting
 
-Với mỗi block mới được tạo ra, có 5 vé được gọi ngẫu nhiên để voting, holder dùng vé này để bầu chọn, vote phê duyệt cho công việc xác thực block mới của miner **Block Voting** đồng thời cũng có quyền biểu quyết Yes/No khi có bất kỳ đề xuất thay đổi bên trong mạng lưới Decred **Consensus Rule Voting**. Nếu vote thành công thì sẽ holdler sẽ nhận được phần thưởng
+Với mỗi block mới được tạo ra, có 5 vé được gọi ngẫu nhiên để vote, holder dùng vé này để bầu chọn, vote phê duyệt cho công việc xác thực block mới của miner **Block Voting** đồng thời cũng có quyền biểu quyết Yes/No khi có bất kỳ đề xuất thay đổi bên trong mạng lưới Decred **Consensus Rule Voting**. Nếu vote thành công thì sẽ holdler sẽ nhận được phần thưởng
 
 - Block Voting: Ticket để phê duyệt hoặc từ chối khi có block mới được tạo bởi công cụ khai thác PoW. Ít nhất ba trong số năm vé được gọi phải bỏ phiếu phê duyệt. Nếu đa số ticket từ chối, minner đã tạo ra block đó sẽ không nhận được phần thưởng và các giao dịch từ block đó được trả lại cho mempool.
 
