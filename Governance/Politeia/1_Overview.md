@@ -6,7 +6,7 @@
 
 Politeia là một nền tảng hỗ trợ việc quản trị mạng lưới Decred.
 
-Bạn có thể theo dõi tại [https://proposals.decred.org](https://proposals.decred.org) là nơi người dùng gửi đề xuất, theo dõi, thảo luận về các vấn đề liên quan đến quản trị Decred. Tuy nhiên việc voting không được thực hiện tại đây, vì nó yêu cầu chữ ký từ ví DCR của bạn.
+Bạn có thể theo dõi tại [https://proposals.decred.org](https://proposals.decred.org) là nơi người dùng gửi đề xuất, theo dõi, thảo luận về các vấn đề liên quan đến quản trị Decred. Tuy nhiên việc vote không được thực hiện tại đây, vì nó yêu cầu chữ ký từ ví DCR của bạn.
 
 Có hai loại đề xuất:
 
@@ -47,7 +47,7 @@ Politeia được xây dựng theo quan niệm kiểm duyệt minh bạch sử d
 
 ## 3. Politeia Data
 
-Tất cả dữ liệu (đề xuất, bình luận, voting) sẽ được lưu trên blockchain bằng cách sử dụng dcrtime và được lưu trữ trên git. Tất cả mọi người đều có quyền truy cập và kiểm tra.
+Tất cả dữ liệu (đề xuất, bình luận, vote) sẽ được lưu trên blockchain bằng cách sử dụng dcrtime và được lưu trữ trên git. Tất cả mọi người đều có quyền truy cập và kiểm tra.
 
 ## Kết luận
 
